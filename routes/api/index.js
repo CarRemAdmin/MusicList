@@ -3,9 +3,7 @@ const router = express.Router();
 
 
 
-router.get('/', (req, res, next) => {
-  res.json({ text: 'MusicList API Test' });
-});
+
 
 
 module.exports = router;
