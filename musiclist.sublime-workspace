@@ -3,25 +3,30 @@
 	{
 		"selected_items":
 		[
+			[
+				"con",
+				"Connect"
+			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "package.json",
+			"file": "app.js",
 			"settings":
 			{
-				"buffer_size": 327,
+				"buffer_size": 2008,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "app.js",
+			"file": ".eslintrc",
 			"settings":
 			{
-				"buffer_size": 1256,
-				"line_ending": "Unix"
+				"buffer_size": 160,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -45,7 +50,7 @@
 				"Install Package Control"
 			]
 		],
-		"width": 593.0
+		"width": 490.0
 	},
 	"console":
 	{
@@ -65,18 +70,25 @@
 	},
 	"expanded_folders":
 	[
-		"/C/development/tutorials/closebrace/musiclist",
-		"/C/development/tutorials/closebrace/musiclist/views"
+		"/C/development/tutorials/closebrace/musiclist"
 	],
 	"file_history":
 	[
+		"/C/development/tutorials/closebrace/musiclist/.eslintrc",
+		"/C/development/tutorials/closebrace/musiclist/routes/api/users.js",
+		"/C/development/tutorials/closebrace/musiclist/app.js",
+		"/C/development/tutorials/closebrace/musiclist/models/user.js",
+		"/C/development/tutorials/closebrace/musiclist/routes/api/users.test.js",
+		"/C/development/tutorials/closebrace/musiclist/package.json",
+		"/C/development/tutorials/closebrace/musiclist/routes/api/index.js",
+		"/C/development/tutorials/closebrace/musiclist/routes/index.js",
 		"/C/development/tutorials/closebrace/musiclist/views/db.users.updateOne(",
 		"/C/development/reactapps/yarntest/index.js",
 		"/C/mongo/mongod.cfg"
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 43.0
 	},
 	"find_in_files":
 	{
@@ -90,6 +102,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"var"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -98,7 +111,7 @@
 		"replace_history":
 		[
 		],
-		"reverse": true,
+		"reverse": false,
 		"show_context": true,
 		"use_buffer2": true,
 		"whole_word": false,
@@ -112,24 +125,24 @@
 			[
 				{
 					"buffer": 0,
-					"file": "package.json",
+					"file": "app.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 327,
+						"buffer_size": 2008,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								266,
-								266
+								809,
+								809
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -142,24 +155,24 @@
 				},
 				{
 					"buffer": 1,
-					"file": "app.js",
-					"semi_transient": true,
+					"file": ".eslintrc",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1256,
+						"buffer_size": 160,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								79,
+								79
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -177,7 +190,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 38.0
 	},
 	"layout":
 	{
@@ -248,7 +261,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 188.0,
+	"side_bar_width": 258.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
